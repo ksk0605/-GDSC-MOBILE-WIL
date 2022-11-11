@@ -8,7 +8,7 @@
 	⁃ 사용하는 페이지별로 디렉토리를 나누어 view 정리  
 
 2. 위젯분리  
-    ![screenshot](./img/week7_widget_sep.png)
+    ![screenshot](./img/week7_widget_sep.png)  
 	⁃ 커스텀 위젯을 통해 가독성 향상 가능   
 
 3. 앱 제작 팁  
