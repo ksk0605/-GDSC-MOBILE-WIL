@@ -1,5 +1,5 @@
 # GDSC-MOBILE-WIL
 ---
-## 1주차
-
-## 2주차
+  
+## __Weekly I learned!__  
+GDSD Mobile part 스터디 기록 저장소 입니다# -GDSC-MOBILE-WIL
